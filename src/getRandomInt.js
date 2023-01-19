@@ -1,10 +1,5 @@
-const getRandomInt = () => {
-    return Math.floor(Math.random() * 100);
-  };
+function getRandomInt(min = 0, max = 100) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
 
-
-const getRandomArrayElement = (arr) => {
-  return arr[Math.floor(Math.random()*arr.length)]
-};
-
-export {getRandomArrayElement, getRandomInt};
+export default getRandomInt;

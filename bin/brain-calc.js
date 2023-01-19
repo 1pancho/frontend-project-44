@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import { getRandomExpression } from "../src/calc";
+import calculate from '../src/games/calc.js';
 
-console.log(getRandomExpression());
+calculate();
