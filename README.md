@@ -17,10 +17,10 @@
 
 ### Демонстрация запуска и игрового процесса:
 ### 'Even or odd' game
-(https://asciinema.org/a/BqS2LC6rDb8rnrB6BF8eUwOjT)
+https://asciinema.org/a/BqS2LC6rDb8rnrB6BF8eUwOjT
 
 ### 'Calculator' game
-(https://asciinema.org/a/rb2zJt7owzwoDNW2Gcw5KCHN2)
+https://asciinema.org/a/rb2zJt7owzwoDNW2Gcw5KCHN2
 
 ### 'GCD' game
 https://asciinema.org/a/N7fX3ms12M7yoLrMW0R3Z4sgx
@@ -30,14 +30,3 @@ https://asciinema.org/a/gGCnwHmQkvutkIUjzcbrjUfu1
 
 ### 'Prime' game
 https://asciinema.org/a/KoEFsYrB5gdSXSALYyVR4qUps
-
-<a href="https://asciinema.org/a/DHIugdSgMMN9HiImtseSvKkhe" target="_blank"><img src="https://asciinema.org/a/DHIugdSgMMN9HiImtseSvKkhe.svg" /></a>
-
-<a href="https://asciinema.org/a/1023v782vSVo2iPU1Wij1fRPB" target="_blank"><img src="https://asciinema.org/a/1023v782vSVo2iPU1Wij1fRPB.svg" /></a>
-
-<a href="https://asciinema.org/a/kfKsMRZwxIyW8seRIJYitzzih" target="_blank"><img src="https://asciinema.org/a/kfKsMRZwxIyW8seRIJYitzzih.svg" /></a>
-
-<a href="https://asciinema.org/a/X3NaUzNU8UaxsOfByGnN3mTPY" target="_blank"><img src="https://asciinema.org/a/X3NaUzNU8UaxsOfByGnN3mTPY" /></a>
-
-<a href="https://asciinema.org/a/4iCr3ITaPmeJUTRDu9heVbO3u" target="_blank"><img src="https://asciinema.org/a/4iCr3ITaPmeJUTRDu9heVbO3u.svg" /></a>
-
