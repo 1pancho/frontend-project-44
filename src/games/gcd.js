@@ -12,5 +12,3 @@ const findGcd = () => {
   return [question, correctAnswer];
 };
 export default () => gameLogic(rule, findGcd);
-
-

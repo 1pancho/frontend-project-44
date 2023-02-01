@@ -1,4 +1,4 @@
-//Определение функции ищущей рандомное число
+// Определение функции ищущей рандомное число
 import getRandomInt from '../getRandomInt.js';
 import gameLogic from '../index.js';
 
@@ -11,6 +11,5 @@ const findEven = () => {
   const correctAnswer = isEven(randomNum) ? 'yes' : 'no';
   return [`${randomNum}`, correctAnswer];
 };
-
 
 export default () => gameLogic(rule, findEven);
