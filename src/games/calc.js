@@ -14,7 +14,7 @@ const calc = (firstNumber, secondNumber, operator) => {
   }
 };
 
-const rule = 'What is the result of the epression?';
+const rule = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
 
 const calcGame = () => {
