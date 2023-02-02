@@ -10,7 +10,7 @@ const calc = (firstNumber, secondNumber, operator) => {
     case '*':
       return firstNumber * secondNumber;
     default:
-      return Error;
+      throw new Error('Ошибка');
   }
 };
 
@@ -27,7 +27,7 @@ const calcGame = () => {
   return [question, correctAnswer];
 };
 
-const calculate = () => {
+const startCalc = () => {
   gameLogic(rule, calcGame);
 };
-export default calculate;
+export default startCalc;
